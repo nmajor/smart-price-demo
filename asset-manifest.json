@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/smart-price-demo/static/css/main.fec60048.chunk.css",
+    "main.js": "/smart-price-demo/static/js/main.5f10547c.chunk.js",
+    "main.js.map": "/smart-price-demo/static/js/main.5f10547c.chunk.js.map",
+    "runtime-main.js": "/smart-price-demo/static/js/runtime-main.62f9b873.js",
+    "runtime-main.js.map": "/smart-price-demo/static/js/runtime-main.62f9b873.js.map",
+    "static/js/2.03f197aa.chunk.js": "/smart-price-demo/static/js/2.03f197aa.chunk.js",
+    "static/js/2.03f197aa.chunk.js.map": "/smart-price-demo/static/js/2.03f197aa.chunk.js.map",
+    "index.html": "/smart-price-demo/index.html",
+    "precache-manifest.ea827df2850c0945d793c0852f2f2dce.js": "/smart-price-demo/precache-manifest.ea827df2850c0945d793c0852f2f2dce.js",
+    "service-worker.js": "/smart-price-demo/service-worker.js",
+    "static/css/main.fec60048.chunk.css.map": "/smart-price-demo/static/css/main.fec60048.chunk.css.map",
+    "static/js/2.03f197aa.chunk.js.LICENSE.txt": "/smart-price-demo/static/js/2.03f197aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.62f9b873.js",
+    "static/js/2.03f197aa.chunk.js",
+    "static/css/main.fec60048.chunk.css",
+    "static/js/main.5f10547c.chunk.js"
+  ]
+}
